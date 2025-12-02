@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+sqlite3-binary
+PyPDF2
+openai
+tiktoken
